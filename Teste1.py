@@ -38,3 +38,5 @@ plt.title("Erro entre as soluções")
 plt.show()
 
 print('Modificação')
+
+print('Nova alteração')

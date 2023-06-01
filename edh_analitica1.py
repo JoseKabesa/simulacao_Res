@@ -38,4 +38,4 @@ def EDH_analitica(k,mi,phi,ct,p0,N,L,tf,dt,A,qw):
         if i % 365 == 0:
             plt.plot(distancia,p[:,i],'g--')
 
-    return(p)
+    return p
